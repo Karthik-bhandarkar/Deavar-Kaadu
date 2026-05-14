@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1, "name": "Sandalwood", "scientificName": "Santalum album", "kannadaName": "ಶ್ರೀಗಂಧ (Shrigandha)",
+    "type": "Tree", "conservationStatus": "Vulnerable",
+    "medicinalUse": "Heartwood oil treats skin disorders, anxiety, and urinary tract infections. Paste used for cooling fevers. Central to Ayurvedic Chandanadi preparations.",
+    "ecologicalRole": "Semi-parasitic tree that draws nutrients from host roots, strengthening soil networks. Provides dense shade. Seeds dispersed by Malabar giant squirrel.",
+    "sacredAssociation": "Sacred to Vishnu and Shiva. Paste applied on deity idols. Used in havan offerings. Symbol of purity and devotion across all Karnataka traditions.",
+    "imageRes": "species_sandalwood",
+    "nativeDistricts": "Mysuru, Kodagu, Chikkamagaluru, Shivamogga",
+    "funFact": "It takes 30-40 years for sandalwood to develop its fragrant heartwood. Karnataka state tree and protected by law."
+  },
+  {
+    "id": 2, "name": "Banyan Tree", "scientificName": "Ficus benghalensis", "kannadaName": "ಆಲದ ಮರ (Alada Mara)",
+    "type": "Tree", "conservationStatus": "Least Concern",
+    "medicinalUse": "Aerial roots used for dental hygiene. Bark decoction treats diabetes. Latex applied for skin cracks and wounds. Leaves in poultice for inflammations.",
+    "ecologicalRole": "Keystone species supporting 87 vertebrate species. Aerial roots create new trunks expanding forest cover. Year-round fruiting supports birds, bats, and primates.",
+    "sacredAssociation": "Represents immortality; associated with Lord Vishnu. Couples circumambulate banyan for marital prosperity. Village panchayat meetings traditionally held under it.",
+    "imageRes": "species_banyan",
+    "nativeDistricts": "All districts of Karnataka",
+    "funFact": "The Great Banyan in Kolkata has an aerial root spread of 156 meters — wider than a stadium. Karnataka's sacred groves preserve ancient specimens over 400 years old."
+  },
+  {
+    "id": 3, "name": "Peepal Tree", "scientificName": "Ficus religiosa", "kannadaName": "ಅರಳೀ ಮರ (Arali Mara)",
+    "type": "Tree", "conservationStatus": "Least Concern",
+    "medicinalUse": "Bark treats leucoderma and diarrhea. Leaves boiled for treating jaundice. Root bark used for gum disease. Fruit powder for asthma.",
+    "ecologicalRole": "One of only a few trees producing oxygen at night. Provides year-round food for fig-specialist birds and wasps. Host for 50+ epiphyte species.",
+    "sacredAssociation": "Lord Buddha attained enlightenment under a Peepal tree (Bodhi tree). Sacred to Hindus, Buddhists, and Jains. Never cut in sacred groves — considered house of spirits.",
+    "imageRes": "species_peepal",
+    "nativeDistricts": "All Karnataka districts, especially common in sacred groves",
+    "funFact": "The Peepal is the only tree that releases oxygen 24/7, making it the most beneficial tree for urban air quality. Its fig-wasp mutualism is 60 million years old."
+  },
+  {
+    "id": 4, "name": "Neem", "scientificName": "Azadirachta indica", "kannadaName": "ಬೇವಿನ ಮರ (Bevina Mara)",
+    "type": "Tree", "conservationStatus": "Least Concern",
+    "medicinalUse": "Leaf paste treats skin diseases. Bark decoction for fever and malaria. Oil for fungal infections and head lice. Seeds for natural pesticide. Twigs as toothbrush.",
+    "ecologicalRole": "Natural pesticide — limonin from leaves repels 200+ insect pest species. Deep taproot accesses subsoil water. Provides dense cooling shade. Fast-growing carbon sequester.",
+    "sacredAssociation": "Sacred to Goddess Mariamma and Sheetala Devi. Neem leaves adorn doorways during festivals. Goddess idols decorated with neem branches during temple processions.",
+    "imageRes": "species_neem",
+    "nativeDistricts": "Dakshina Kannada, Uttara Kannada, Dharwad, Belagavi",
+    "funFact": "Every part of the neem tree has medicinal value — it is called 'Village Pharmacy' in traditional knowledge. One neem tree can protect 200 sq meters of crops from pests."
+  },
+  {
+    "id": 5, "name": "Tulsi", "scientificName": "Ocimum tenuiflorum", "kannadaName": "ತುಳಸಿ (Tulasi)",
+    "type": "Herb", "conservationStatus": "Least Concern",
+    "medicinalUse": "Leaf tea for coughs, colds, and fevers. Reduces cortisol (stress hormone). Antimicrobial essential oil. Treats respiratory disorders. Adaptogenic properties.",
+    "ecologicalRole": "Strong aromatic volatile oils repel mosquitoes and insects in surrounding area. Attracts honeybees for pollination. Enhances soil microbiology.",
+    "sacredAssociation": "Most sacred plant in Hindu tradition. Considered manifestation of Goddess Lakshmi. Every household and grove maintains a Tulsi plant. Evening prayer ritual (Tulsi Puja) conducted daily.",
+    "imageRes": "species_tulsi",
+    "nativeDistricts": "All Karnataka districts — cultivated in every sacred grove",
+    "funFact": "Tulsi purifies air more effectively than most houseplants, releasing antimicrobial compounds. NASA research confirms its air-cleaning properties."
+  },
+  {
+    "id": 6, "name": "Wild Orchid", "scientificName": "Vanda tessellata", "kannadaName": "ಕಾಡು ಆರ್ಕಿಡ್ (Kaadu Orchid)",
+    "type": "Herb", "conservationStatus": "Endangered",
+    "medicinalUse": "Tuber powder (Salep) treats respiratory conditions, intestinal disorders. Used in traditional strength tonics. Flower paste for skin glow in folk traditions.",
+    "ecologicalRole": "Epiphyte requiring pristine forest conditions — acts as indicator species for forest health. Pollinated by solitary bees and long-tongued moths.",
+    "sacredAssociation": "Considered divine flowers offered to forest deities. Used in deity garlands during Navaratri. Their rare blooming is considered auspicious sign.",
+    "imageRes": "species_orchid",
+    "nativeDistricts": "Kodagu, Uttara Kannada, Chikkamagaluru, Shivamogga",
+    "funFact": "Wild orchids are indicator species — their presence proves zero pesticide use. Karnataka's sacred groves protect over 80 wild orchid species found nowhere else in the world."
+  },
+  {
+    "id": 7, "name": "Indian Rosewood", "scientificName": "Dalbergia latifolia", "kannadaName": "ಬೀಟಿ ಮರ (Beeti Mara)",
+    "type": "Tree", "conservationStatus": "Vulnerable",
+    "medicinalUse": "Bark extract treats skin diseases. Heartwood decoction used for digestive issues. Leaf paste applied for healing wounds in folk medicine.",
+    "ecologicalRole": "Nitrogen-fixing tree that enriches soil. Dense canopy supports large epiphyte communities. Hollows in old trees provide nesting for hornbills.",
+    "sacredAssociation": "Considered sacred in forest deity worship. Traditional musical instruments (veena) crafted from wood with devotional significance. Timber never harvested from sacred groves.",
+    "imageRes": "species_rosewood",
+    "nativeDistricts": "Kodagu, Chikkamagaluru, Shivamogga, Uttara Kannada",
+    "funFact": "Indian Rosewood is one of the world's most valuable tropical hardwoods. Sacred grove protection has preserved this vulnerable species in Karnataka while it vanished from unprotected forests."
+  },
+  {
+    "id": 8, "name": "Bamboo", "scientificName": "Bambusa arundinacea", "kannadaName": "ಬಿದಿರು (Bidiru)",
+    "type": "Tree", "conservationStatus": "Least Concern",
+    "medicinalUse": "Young shoots for digestive health. Bamboo silica (tabasheer) for respiratory ailments. Burned ash for dental care. Leaf tea for fever reduction.",
+    "ecologicalRole": "Fastest-growing plant — sequesters carbon 3x faster than equivalent trees. Root system prevents soil erosion on stream banks. Dense thickets shelter small mammals.",
+    "sacredAssociation": "Sacred in folk traditions as Lord Krishna's flute material. Bamboo groves protect boundary of sacred groves. Used in all festival decorations and ritual poles.",
+    "imageRes": "species_bamboo",
+    "nativeDistricts": "Widespread — Kodagu, Shivamogga, Uttara Kannada, Chikkamagaluru",
+    "funFact": "Bamboo can grow 91cm in a single day. Its tensile strength rivals steel, making it the strongest plant material known. Sacred groves preserve 40+ native bamboo varieties in Karnataka."
+  },
+  {
+    "id": 9, "name": "Teak", "scientificName": "Tectona grandis", "kannadaName": "ತೇಗ ಮರ (Tega Mara)",
+    "type": "Tree", "conservationStatus": "Least Concern",
+    "medicinalUse": "Bark treats skin diseases and blood disorders. Flower decoction for urinary problems. Seed oil promotes hair growth. Leaf extract anti-inflammatory.",
+    "ecologicalRole": "Deciduous tree creating seasonal food availability through leaf fall. Large leaves serve as mulch enriching soil. Habitat for Indian giant flying squirrel.",
+    "sacredAssociation": "Ancient teak trees in sacred groves are considered 'witness trees' to historical events. Used in ritual construction of temple vehicles (rathas) and divine palanquins.",
+    "imageRes": "species_teak",
+    "nativeDistricts": "Shivamogga, Uttara Kannada, Dharwad, Belagavi",
+    "funFact": "Teak wood can last 1000+ years without rotting when properly seasoned. Karnataka's sacred groves contain naturally-grown teak trees 300+ years old that represent the original forest cover."
+  },
+  {
+    "id": 10, "name": "Malabar Giant Squirrel", "scientificName": "Ratufa indica", "kannadaName": "ದೊಡ್ಡ ಅಳಿಲು (Dodda Alilu)",
+    "type": "Mammal", "conservationStatus": "Least Concern",
+    "medicinalUse": "No medicinal use. Protected species — important in traditional folklore as forest messenger.",
+    "ecologicalRole": "Primary seed disperser for large-seeded trees including sandalwood, rosewood, and wild mango. Nest building aerates forest canopy. Helps regeneration of forest gaps.",
+    "sacredAssociation": "Considered divine messenger in Kodava tradition. Its call is believed to alert villagers to presence of predators and strangers near sacred grove.",
+    "imageRes": "species_squirrel",
+    "nativeDistricts": "Kodagu, Chikkamagaluru, Shivamogga — endemic to Western Ghats",
+    "funFact": "Malabar Giant Squirrel can leap 6 meters between tree branches. Its fur has three distinct colors in a single coat — maroon, cream, and black — making it India's most colorful mammal."
+  }
+]

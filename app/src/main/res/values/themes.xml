@@ -1,0 +1,20 @@
+<resources>
+    <!-- Base application theme — used by non-Compose views -->
+    <style name="Theme.DevaraKaadu" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#2D6A4F</item>
+        <item name="colorPrimaryVariant">#1B4332</item>
+        <item name="colorOnPrimary">#F8F3E6</item>
+        <item name="colorSecondary">#7F4F24</item>
+        <item name="colorOnSecondary">#F8F3E6</item>
+        <item name="android:statusBarColor">#1B4332</item>
+        <item name="android:navigationBarColor">#1B4332</item>
+    </style>
+
+    <!-- Splash screen theme: uses windowSplashScreenBackground for Android 12+ -->
+    <style name="Theme.DevaraKaadu.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#1B4332</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="windowSplashScreenAnimationDuration">500</item>
+        <item name="postSplashScreenTheme">@style/Theme.DevaraKaadu</item>
+    </style>
+</resources>
